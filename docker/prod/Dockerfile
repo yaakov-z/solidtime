@@ -80,6 +80,8 @@ RUN apt-get update; \
     curl \
     gcc \
     wget \
+    # TODO: remove
+    gdb \
     nano \
     ncdu \
     procps \
